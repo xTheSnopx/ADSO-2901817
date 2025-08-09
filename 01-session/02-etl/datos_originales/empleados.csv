@@ -1,0 +1,11 @@
+id_empleado,nombre,apellido,email,telefono,fecha_ingreso,salario,departamento,cargo,estado
+001,Juan,Pérez,juan.perez@empresa.com,+57-300-1234567,2020-03-15,3500000,Ventas,Vendedor Senior,Activo
+002,María,García,maria.garcia@empresa.com,+57-301-2345678,2019-07-22,4200000,Ventas,Supervisora,Activo
+003,Carlos,López,carlos.lopez@empresa.com,+57-302-3456789,2021-01-10,3200000,Ventas,Vendedor Junior,Activo
+004,Ana,Martínez,ana.martinez@empresa.com,+57-303-4567890,2020-11-05,3800000,Ventas,Vendedor Senior,Activo
+005,Luis,Rodríguez,luis.rodriguez@empresa.com,+57-304-5678901,2022-02-18,2900000,Ventas,Vendedor Junior,Activo
+006,Carmen,Jiménez,carmen.jimenez@empresa.com,,2018-05-30,5500000,Administración,Gerente,Activo
+007,Pedro,Sánchez,pedro.sanchez@empresa.com,+57-306-7890123,2021-09-12,2800000,Logística,Coordinador,Activo
+008,Laura,Morales,,+57-307-8901234,2020-06-28,3100000,Marketing,Analista,Inactivo
+009,Diego,Vargas,diego.vargas@empresa.com,+57-308-9012345,2023-01-15,2600000,Ventas,Vendedor Trainee,Activo
+010,Sofía,Herrera,sofia.herrera@empresa.com,+57-309-0123456,2019-04-10,4800000,Finanzas,Contador,Activo
